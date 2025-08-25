@@ -27,6 +27,7 @@ We developed a **full-stack Student Management System** using **Spring Boot** (b
 ---
 
 ## 📂 Project Structure
+```text
 StudentManagementSystem
 ├── backend-springboot # Spring Boot backend
 ├── frontend-react # React + Vite frontend
@@ -108,7 +109,7 @@ StudentManagementSystem
 ```bash
 cd backend-springboot
 mvn spring-boot:run
-
+---
 
 API runs at: http://localhost:8080
 
@@ -117,7 +118,7 @@ API runs at: http://localhost:8080
 cd frontend-react
 npm install
 npm run dev
-
+---
 App runs at: http://localhost:5173
 
 Credits : latenightcoder-git
