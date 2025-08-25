@@ -1,0 +1,28 @@
+/* StudentTable.css */
+.table-container {
+    margin: 20px;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 12px 15px;
+        border-bottom: 1px solid #ddd;
+        text-align: left;
+    }
+
+    th {
+        background: #f4f6f9;
+        font-weight: 600;
+    }
+
+    tr:hover {
+        background: #f9f9f9;
+    }
